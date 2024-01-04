@@ -1,5 +1,9 @@
 # Flappy bird with Unity
 
+### 🚀 [https://abdoul-sudo.itch.io/flappy-bird](https://abdoul-sudo.itch.io/flappy-bird)
+![Capture d’écran (25)](https://github.com/Abdoul-sudo/unity_flappyBird/assets/78481157/426fdc05-0e35-4b28-9088-98deae17f27e)
+![Capture d’écran (28)](https://github.com/Abdoul-sudo/unity_flappyBird/assets/78481157/62cf57b1-36f8-4c4d-b042-de61e5c9c549)
+
 ## Steps
 
 ### 1- Game Object Visual
