@@ -1,8 +1,9 @@
 # Flappy bird with Unity
 
 ### 🚀 [https://abdoul-sudo.itch.io/flappy-bird](https://abdoul-sudo.itch.io/flappy-bird)
-![Capture d’écran (25)](https://github.com/Abdoul-sudo/unity_flappyBird/assets/78481157/426fdc05-0e35-4b28-9088-98deae17f27e)
-![Capture d’écran (28)](https://github.com/Abdoul-sudo/unity_flappyBird/assets/78481157/62cf57b1-36f8-4c4d-b042-de61e5c9c549)
+![Capture d’écran (29)](https://github.com/Abdoul-sudo/unity_flappyBird/assets/78481157/c0c914fd-a98c-4668-ae82-3d0d95b2f9eb)
+![Capture d’écran (30)](https://github.com/Abdoul-sudo/unity_flappyBird/assets/78481157/1dd7b4dc-6e83-45ca-b01c-4d23209d6daf)
+
 
 ## Steps
 
